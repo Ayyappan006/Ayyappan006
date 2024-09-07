@@ -10,7 +10,7 @@ I am enthusiastic about contributing innovative ideas and working on impactful p
 - **Database** : MySQL
 - **Version Control** : GIT
 - **Cloud Technologies Tools** : Microsoft Azure, Jenkins, Docker.
-- **Soft Skills** : Self-Motivating, Team Work,Adaptability.
+- **Soft Skills** : Self-Motivating, Team Work, Adaptability.
   
 ### Contact Details ☎
 - **Gmail-ID** : manihema502@gmail.com
