@@ -1,15 +1,20 @@
-## Hello, I am J V Ayyappan 👋
+#### Hello, I am J V Ayyappan 👋
+
+## About Me 🎓
+Hey there! I am J V Ayyappan, a Master of Technology graduate in Computer Science and Engineering. As a self-motivated and adaptable individual, I am eager to seek a job opportunity where I can gain practical experience in a software company. I am enthusiastic about contributing innovative ideas and working on impactful projects that drive results and foster growth.
+
+## Skills ✍🏻
+- **Programming Languages** : Java
+- **Web Development and Frameworks** : HTML5, CSS3, AngularJS
+- **Database** : MySQL
+- **Version Control** : GIT
+- **Cloud Technologies Tools** : Microsoft Azure, Jenkins, Docker.
+- **Soft Skills** : Self-Motivating, Team Work,Adaptability.
+  
+## Contact Details ☎
+- **Gmail-ID** : manihema502@gmail.com
+- **LinkedIN** : www.linkedin.com/in/j-v-ayyappan-a21920266
+- **Github** : https://github.com/Ayyappan006
 
 
-**Ayyappan006/Ayyappan006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
