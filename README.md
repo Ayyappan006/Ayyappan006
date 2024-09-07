@@ -1,7 +1,8 @@
 ## Hello, I am J V Ayyappan 👋
 
 ## About Me 🎓
-Hey there! I am J V Ayyappan, a Master of Technology graduate in Computer Science and Engineering. As a self-motivated and adaptable individual, I am eager to seek a job opportunity where I can gain practical experience in a software company. I am enthusiastic about contributing innovative ideas and working on impactful projects that drive results and foster growth.
+Hey there! I am J V Ayyappan, a Master of Technology graduate in Computer Science and Engineering. As a self-motivated and adaptable individual, I am eager to seek a job opportunity where I can gain practical experience in a software company. 
+I am enthusiastic about contributing innovative ideas and working on impactful projects that drive results and foster growth.
 
 ## Skills ✍🏻
 - **Programming Languages** : Java
