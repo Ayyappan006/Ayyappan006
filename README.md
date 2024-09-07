@@ -17,5 +17,8 @@ I am enthusiastic about contributing innovative ideas and working on impactful p
 - **LinkedIN** : www.linkedin.com/in/j-v-ayyappan-a21920266
 - **Github** : https://github.com/Ayyappan006
 
-https://ijessi.com/software/wp-content/uploads/2020/09/working_man.gif
+
+![working_man](https://github.com/user-attachments/assets/570138fe-354e-46e8-bce6-1583a349216d)
+
+
 
