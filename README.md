@@ -1,7 +1,11 @@
 # Hello, I am J V Ayyappan 👋
 
 ### About Me 🎓
-Hello, I'm J. V. Ayyappan, a computer science and engineering master of technology integrated degree holder. Being a focused and flexible person, I'm excited to look for a position in a software development company in which I can gain practical experience. I really enjoy coming up with innovative concepts and working on important projects that encourage growth and deliver results.
+👋 Hello My name is J V Ayyappan, and I have graduated from the M.Tech Integrated Computer Science and Engineering. I have a keen interest in software engineering and back-end development. I'm ready to use my skills in real-world situations and motivated to create flexible, efficient solutions.
+💻 My background in computer sceince engineering, programming, and problem-solving has been strengthened by my academic pathway. I'm now looking for back-end development opportunities to grow my career and gain hands-on experience.
+🚀 I'm keen to take on new challenges, keep improving what I can do, and contribute to successful initiatives in a team environment. I'm also a quick learner.
+
+Let's communicate, work together, and produce!
 
 ### Skills ✍🏻
 - **Programming Languages** : Java
